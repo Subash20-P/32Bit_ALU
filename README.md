@@ -195,30 +195,17 @@ directory paths. For this Design, you will define a library called “worklib”
 ### Step 2: Elaboration:– 
 
 To check the port connections in hierarchical design
-
-Inputs: Top level design / test bench Verilog codes 
-
-Outputs: Elaborate database updated in mapped library if successful, generates report else error reported in log file 
-
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
++ Inputs: Top level design / test bench Verilog codes 
++ Outputs: Elaborate database updated in mapped library if successful, generates report else error reported in log file 
 
 ### 	Steps for elaboration 
 
 – Run the elaboration command with elaborate options 
 
 + It builds the module hierarchy
-
 + Binds modules to module instances 
-
 + Computes parameter values
-
 + Checks for hierarchical names conflicts
-
 + It also establishes net connectivity and prepares all of this for simulation
 
 After elaboration the file will come under snapshot. Select the test bench and simulate it.
