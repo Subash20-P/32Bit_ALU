@@ -119,7 +119,7 @@ It will invoke the nclaunch window for functional simulation we can compile,elab
 
 ![image](https://github.com/user-attachments/assets/28ce2cb7-d92c-4c39-8cdb-f7a808911c1b)
 
-### Fig 3: Setting Multi-step simulation
+#### Fig 3: Setting Multi-step simulation
 
 Select Multiple Step and then select “Create cds.lib File” as shown in below figure 
 
@@ -127,7 +127,7 @@ Click the cds.lib file and save the file by clicking on Save option
 
 ![WhatsApp Image 2024-11-18 at 15 47 35_7454884c](https://github.com/user-attachments/assets/41c378f7-e6f3-431a-a7f3-068b802371d8)
 
-### Fig 4:cds.lib file Creation
+#### Fig 4:cds.lib file Creation
 
 Save cds.lib file and select the correct option for cds.lib file format based on the HDL Language and Libraries used. 
 
@@ -140,7 +140,7 @@ A Click “OK” in the “nclaunch: Open Design Directory” window as shown in
 ![image](https://github.com/user-attachments/assets/1d58b5a1-3b19-4a06-96f7-cc1eafe0c584)
 
 
-### Fig 5: Selection of Don’t include any libraries
+#### Fig 5: Selection of Don’t include any libraries
 
 A ‘NCLaunch window’ appears as shown in figure below
 
@@ -152,7 +152,7 @@ To perform the function simulation, the following three steps are involved Compi
 
 ![image](https://github.com/user-attachments/assets/09e8a1ad-e894-4291-9f90-51ee3db5b76e)
 
-### Fig 6: Nclaunch Window
+#### Fig 6: Nclaunch Window
 
 ## Step 1: Compilation:
 
@@ -179,7 +179,7 @@ Worklib is the directory where all the compiled codes are stored while Snapshot 
 
 ![WhatsApp Image 2024-11-18 at 15 05 03_499cc5a3](https://github.com/user-attachments/assets/ba42a49b-cb24-4be4-9fdc-a74c7391d67b)
 
-### Fig 7: Compiled database in worklib
+#### Fig 7: Compiled database in worklib
 
 After compilation it will come under worklib you can see in right side window
 
@@ -215,7 +215,7 @@ After elaboration the file will come under snapshot. Select the test bench and s
 
 ![WhatsApp Image 2024-11-18 at 15 05 00_3a20a0c2](https://github.com/user-attachments/assets/3633cc67-9626-42e7-9507-e6882949030c)
 
-## Fig 8: Elaboration Launch Option
+#### Fig 8: Elaboration Launch Option
 
 ## Step 3: Simulation: 
 
@@ -231,17 +231,17 @@ Steps for simulation – Run the simulation command with simulator options
 
 ![WhatsApp Image 2024-11-18 at 15 05 01_2f0dc679](https://github.com/user-attachments/assets/668e2aa9-9a7f-4349-b2aa-630d900840f4)
 
-## Fig 9: Design Browser window for simulation
+#### Fig 9: Design Browser window for simulation
 
 ![WhatsApp Image 2024-11-18 at 15 05 01_abcc3ff9](https://github.com/user-attachments/assets/7a64c49d-7564-4c80-9e14-77c153f978d0)
 
-## Fig 10:Simulation Waveform Window
+#### Fig 10:Simulation Waveform Window
 
 ![WhatsApp Image 2024-11-18 at 15 05 01_b3204822](https://github.com/user-attachments/assets/ef0479e8-16cf-478b-9013-957fa90b9222)
 
-## Fig 11:Simulation Waveform Window
+#### Fig 11:Simulation Waveform Window
 
-### Result
+## Result
 
 The functionality of a 32-bit ALU was successfully verified using a test bench and simulated with the nclaunch tool.
 
