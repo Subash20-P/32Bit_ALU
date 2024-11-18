@@ -20,6 +20,8 @@ The ALU will take in two 32-bit values, and control line. An Arithmetic unit doe
 
 <br>
 <br>
+<br>
+<br>
 
 ## Creating a Work space :
 
