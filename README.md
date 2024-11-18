@@ -103,7 +103,7 @@ source /cadence/install/cshrc (mention the path of the tools)
       
 After this you can see the window like below 
 
-![WhatsApp Image 2024-11-18 at 15 45 04_3bcf95cb](https://github.com/user-attachments/assets/6845f2ee-1631-4190-a13c-c86fb1fbaec3)
+![WhatsApp Image 2024-11-18 at 15 05 02_bec4be71](https://github.com/user-attachments/assets/98b58ed8-a074-4a70-bae3-5956d154ac79)
 
 ### Fig 2: Invoke the Cadence Environment
 
@@ -125,7 +125,7 @@ Select Multiple Step and then select “Create cds.lib File” as shown in below
 
 Click the cds.lib file and save the file by clicking on Save option 
 
-![WhatsApp Image 2024-11-18 at 15 05 02_5bcf31a0](https://github.com/user-attachments/assets/724a16e2-bf73-4f5b-ab8d-3d8d2fab816d)
+![WhatsApp Image 2024-11-18 at 15 47 35_7454884c](https://github.com/user-attachments/assets/41c378f7-e6f3-431a-a7f3-068b802371d8)
 
 ### Fig 4:cds.lib file Creation
 
