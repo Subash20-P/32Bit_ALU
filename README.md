@@ -1,12 +1,12 @@
-# 32Bit_ALU Simulation
+# EXP3: 32Bit_ALU Simulation
 
-# Aim: 
+## Aim: 
 
 Write a verilog code for 32 bit ALU supporting four logical and four arithmetic operations,use case statement and if statement for ALU behavioral modeling.
 
 To Verify the Functionality using Test Bench.
 
-# Tool Required:
+## Tool Required:
 
 Functional Simulation: Incisive Simulator (ncvlog, ncelab, ncsim)
 
@@ -17,6 +17,9 @@ The ALU will take in two 32-bit values, and control line. An Arithmetic unit doe
 ![image](https://github.com/user-attachments/assets/e574788c-253f-46da-8468-298fe2844f7a)
 
 ### Fig 1 : Block Diagram of 32 Bit ALU 
+
+<br>
+<br>
 
 ## Creating a Work space :
 
@@ -32,7 +35,7 @@ A Blank Document opens up into which the following source code can be typed down
 
 ## a)To Verify the Functionality using Test Bench
 
-## Source Code – Using Case Statement :
+### Source Code – Using Case Statement :
 ```
 module alu_32bit_case(y,a,b,f);
 input [31:0]a;
@@ -60,7 +63,7 @@ Use Save option or Ctrl+S to save the code or click on the save option from the 
 
 Similarly, create your test bench using gedit <filename_tb>.v or <filename_tb>.vhdl to open a new blank document (alu_32bit_tb_case).
 
-## Test Bench :
+### Test Bench :
 ```
 module alu_32bit_tb_case;
 reg [31:0]a;
