@@ -177,9 +177,12 @@ Left side select the file and in Tools : launch verilog compiler with current se
 
 Worklib is the directory where all the compiled codes are stored while Snapshot will have output of elaboration which in turn goes for simulation 
 
+<br>
+
 ![WhatsApp Image 2024-11-18 at 15 05 03_499cc5a3](https://github.com/user-attachments/assets/ba42a49b-cb24-4be4-9fdc-a74c7391d67b)
 
 #### Fig 7: Compiled database in worklib
+
 
 After compilation it will come under worklib you can see in right side window
 
@@ -196,6 +199,12 @@ To check the port connections in hierarchical design
 Inputs: Top level design / test bench Verilog codes 
 
 Outputs: Elaborate database updated in mapped library if successful, generates report else error reported in log file 
+
+<br>
+<br>
+<br>
+<br>
+<br>
 
 ## 	Steps for elaboration 
 
