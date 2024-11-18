@@ -103,7 +103,7 @@ source /cadence/install/cshrc (mention the path of the tools)
       
 After this you can see the window like below 
 
-![WhatsApp Image 2024-11-18 at 15 05 02_689903d0](https://github.com/user-attachments/assets/b06ac57e-17bc-4fca-9421-5fbc65e0bb7f)
+![WhatsApp Image 2024-11-18 at 15 45 04_3bcf95cb](https://github.com/user-attachments/assets/6845f2ee-1631-4190-a13c-c86fb1fbaec3)
 
 ### Fig 2: Invoke the Cadence Environment
 
