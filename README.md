@@ -154,7 +154,7 @@ To perform the function simulation, the following three steps are involved Compi
 
 #### Fig 6: Nclaunch Window
 
-## Step 1: Compilation:
+### Step 1: Compilation:
 
 – Process to check the correct Verilog language syntax and usage 
 
@@ -163,7 +163,7 @@ Inputs: Supplied are Verilog design and test bench codes
 Outputs: Compiled database created in mapped library if successful, generates report else error reported in log file 
 
 
-## 	Steps for compilation: 
+### 	Steps for compilation: 
 
 1. Create work/library directory (most of the latest simulation tools creates automatically)
    
@@ -192,7 +192,7 @@ The cds.lib file is an ASCII text file. It defines which libraries are accessibl
 
 directory paths. For this Design, you will define a library called “worklib”
 
-## Step 2: Elaboration:– 
+### Step 2: Elaboration:– 
 
 To check the port connections in hierarchical design
 
@@ -206,7 +206,7 @@ Outputs: Elaborate database updated in mapped library if successful, generates r
 <br>
 <br>
 
-## 	Steps for elaboration 
+### 	Steps for elaboration 
 
 – Run the elaboration command with elaborate options 
 
@@ -226,7 +226,7 @@ After elaboration the file will come under snapshot. Select the test bench and s
 
 #### Fig 8: Elaboration Launch Option
 
-## Step 3: Simulation: 
+### Step 3: Simulation: 
 
 – Simulate with the given test vectors over a period of time to observe the output behaviour. 
 
