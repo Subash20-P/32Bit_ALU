@@ -210,15 +210,15 @@ Outputs: Elaborate database updated in mapped library if successful, generates r
 
 – Run the elaboration command with elaborate options 
 
-1.It builds the module hierarchy
++ It builds the module hierarchy
 
-2.Binds modules to module instances 
++ Binds modules to module instances 
 
-3.Computes parameter values
++ Computes parameter values
 
-4.Checks for hierarchical names conflicts
++ Checks for hierarchical names conflicts
 
-5.It also establishes net connectivity and prepares all of this for simulation
++ It also establishes net connectivity and prepares all of this for simulation
 
 After elaboration the file will come under snapshot. Select the test bench and simulate it.
 
@@ -230,13 +230,13 @@ After elaboration the file will come under snapshot. Select the test bench and s
 
 – Simulate with the given test vectors over a period of time to observe the output behaviour. 
 
-Inputs: Compiled and Elaborated top level module name 
++ Inputs: Compiled and Elaborated top level module name 
 
-Outputs: Simulation log file, waveforms for debugging 
++ Outputs: Simulation log file, waveforms for debugging 
 
-Simulation allow to dump design and test bench signals into a waveform 
++ Simulation allow to dump design and test bench signals into a waveform 
 
-Steps for simulation – Run the simulation command with simulator options
++ Steps for simulation – Run the simulation command with simulator options
 
 ![WhatsApp Image 2024-11-18 at 15 05 01_2f0dc679](https://github.com/user-attachments/assets/668e2aa9-9a7f-4349-b2aa-630d900840f4)
 
