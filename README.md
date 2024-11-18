@@ -61,6 +61,8 @@ endmodule
 ```
 Use Save option or Ctrl+S to save the code or click on the save option from the top most right corner and close the text file.
 
+<br>
+
 ## Creating Test bench:
 
 Similarly, create your test bench using gedit <filename_tb>.v or <filename_tb>.vhdl to open a new blank document (alu_32bit_tb_case).
@@ -115,7 +117,7 @@ To Launch Simulation tool
 
 It will invoke the nclaunch window for functional simulation we can compile,elaborate and simulate it using Multiple Step .
 
-![WhatsApp Image 2024-11-18 at 15 05 02_13d1cfce](https://github.com/user-attachments/assets/db7b24d3-98a4-438d-9d08-a258974402ea)
+![image](https://github.com/user-attachments/assets/28ce2cb7-d92c-4c39-8cdb-f7a808911c1b)
 
 ### Fig 3: Setting Multi-step simulation
 
