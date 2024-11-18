@@ -205,6 +205,7 @@ Outputs: Elaborate database updated in mapped library if successful, generates r
 <br>
 <br>
 <br>
+<br>
 
 ### 	Steps for elaboration 
 
@@ -231,13 +232,12 @@ After elaboration the file will come under snapshot. Select the test bench and s
 – Simulate with the given test vectors over a period of time to observe the output behaviour. 
 
 + Inputs: Compiled and Elaborated top level module name 
-
 + Outputs: Simulation log file, waveforms for debugging 
-
 + Simulation allow to dump design and test bench signals into a waveform 
-
 + Steps for simulation – Run the simulation command with simulator options
 
+  <br>
+  
 ![WhatsApp Image 2024-11-18 at 15 05 01_2f0dc679](https://github.com/user-attachments/assets/668e2aa9-9a7f-4349-b2aa-630d900840f4)
 
 ### Fig 9: Design Browser window for simulation
